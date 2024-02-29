@@ -1,1 +1,1 @@
-# Electric-Vehicle-Analysis
+Built Power BI dashboard to visualize the trends of the EV Vehicles in the market. Insights shows that there is the huge potential growth opportunities of the Battery Electric Vehicle. Power BI for data visualization and interactive dashboards.
